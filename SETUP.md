@@ -28,10 +28,10 @@ pip install -r requirements.txt
 ```
 
 This will install:
-- PyTorch (>=2.0.0) and torchvision (>=0.15.0)
+- PyTorch (>=2.6.0) and torchvision (>=0.19.0)
 - NumPy (>=1.24.0)
 - Matplotlib (>=3.7.0)
-- Pillow (>=9.5.0)
+- Pillow (>=10.3.0)
 - tqdm (>=4.65.0)
 - scikit-learn (>=1.2.0)
 
